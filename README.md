@@ -1,10 +1,5 @@
-# CODTECH-TASK_2
-Name- Soumay Dhrub 
-Company- CODTECH IT SOLUTIONS 
-Id-CT6WDS2177 
-Domain- Frontend Duration-oct to November 2024
-
-To-Do List Application
+# Project 2
+  To-Do List Application
 Overview:
 This project is a To-Do List Application designed to help users manage tasks effectively. It includes features to add, edit, delete, and persist tasks using browser local storage, ensuring tasks are retained between sessions. The app demonstrates fundamental CRUD operations (Create, Read, Update, Delete) and modern web development practices.
 
